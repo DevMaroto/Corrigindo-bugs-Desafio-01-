@@ -21,7 +21,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Desafio realizado para concluir habilidades adquiridas no Stage 2.
 
-- [Acesse o projeto finalizado, online](https://devmaroto.github.io/Desafio-2-rumo-a-jornada-RocketSeat/)
+- [Acesse o projeto finalizado, offline (Estou com alguns problemas no servidor que hospeda o site)]()
 
 ## 🔖 Layout
 
