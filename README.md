@@ -1,5 +1,5 @@
 <h1 align="center"> Corrigindo bugs Desafio 01 (Explorer Turma 11) </h1>
-<p align="center"> Desafio concluido Stage 02 - Introdução ao HTML e CSS</p>
+<p align="center"> Correção de bugs concluido Stage 02 - Introdução ao HTML e CSS</p>
 
 ## Ambientes únicos para você (Landing Page)
 
